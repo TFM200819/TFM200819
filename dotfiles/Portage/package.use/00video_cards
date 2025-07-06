@@ -1,2 +1,2 @@
 # This is my GPU flags for my Vega 7 IGPU. Consult the Handbook or Gentoo Wiki for the appropriate flags for your GPU.
-*/* VIDEO_CARDS: amdgpu radeonsi -intel -nouveau -nvidia
+*/* VIDEO_CARDS: amdgpu radeonsi -intel -nouveau -nvidia -radeon
