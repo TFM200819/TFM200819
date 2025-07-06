@@ -1,0 +1,3 @@
+media-sound/spotify-adblock ~amd64 # i didnt use this and neither should you.
+# Its better to clone the git repo and do make install instead
+# ~amd64 means that it accepts unstable amd64 packages

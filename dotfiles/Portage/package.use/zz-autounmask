@@ -1,0 +1,17 @@
+# package.use# required by kde-misc/kweather-25.04.2::gentoo
+# required by kde-apps/kdeutils-meta-25.04.2::gentoo
+# required by kde-apps/kde-apps-meta-25.04.2::gentoo[utils]
+# required by kde-apps/kde-apps-meta (argument)
+>=dev-qt/qtpositioning-6.9.1 geoclue
+# required by media-libs/sdl2-ttf-2.24.0::gentoo
+# required by net-misc/freerdp-3.14.1::gentoo[sdl]
+# required by kde-apps/krdc-25.04.2::gentoo[rdp]
+# required by kde-apps/kdenetwork-meta-25.04.2::gentoo
+# required by kde-apps/kde-apps-meta-25.04.2::gentoo[network]
+# required by kde-apps/kde-apps-meta (argument)
+>=media-libs/freetype-2.13.3 harfbuzz
+# required by dev-libs/libayatana-appindicator-0.5.93::gentoo
+# required by media-sound/spotify-1.2.60::gentoo
+# required by media-sound/spotify-adblock-1.0.3::guru
+# required by media-sound/spotify-adblock (argument)
+>=dev-libs/libdbusmenu-16.04.0-r3 gtk3

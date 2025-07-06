@@ -1,0 +1,8 @@
+# This is my per package license agreements
+# If you dont care about licenses, you may add ACCEPT_LICENSE="*" to your make.conf
+# This can either be a folder, or a file.
+app-editors/vscode Microsoft-vscode
+net-im/discord all-rights-reserved
+media-sound/spotify Spotify
+media-sound/spotify-adblock GPL-3 MIT Unicode-DFS-2016 amd64
+app-mobilephone/scrcpy Apache-2.0
