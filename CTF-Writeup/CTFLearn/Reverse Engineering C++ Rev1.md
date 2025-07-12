@@ -14,10 +14,10 @@ Tools used =
 ![Analyze](Screenshot_20250713_002153.png)
 4. Choose analyze too in here<br>
 ![Analyze2](Screenshot_20250713_002249.png)
-5. Find the function that handles the pin check, which in this case is cek(). Here, Ghidra already gives us the answer in a comment. And make sure to remove the h letter.<br>
+5. Find the function that handles the pin check, which in this case is cek(). Here, Ghidra already gives us the answer in a comment. The letter H in the end of the numbers means that its a hex code. <br>
 ![Analyze3](Screenshot_20250713_002616.png)
-6. Decode that back to decimal. Try from hex to other formats.
-7. And try inputting it in the program. If succeeds, then thats the flag.
+6. Decode that hex code back to decimal.
+7. Try inputting it in the program. If succeeds, then thats the flag.
 
 
 
