@@ -60,7 +60,7 @@ Hobbies: Watching Anime, Reading Manga, Playing VNs.
 
 ## **Contact**
 
-<a href="https://github.com/TFM200819"><img align="right" width="100" src="https://media1.tenor.com/m/8cXYgcyuiNYAAAAC/kato-megumi-katou-megumi.gif" /></a> **For a quick response, you can contact me in Discord:** [TFM200819](https://discord.com/users/821948166881935381)
+<a href="https://github.com/TFM200819"><img align="right" width="150" src="https://media1.tenor.com/m/8cXYgcyuiNYAAAAC/kato-megumi-katou-megumi.gif" /></a> **For a quick response, you can contact me in Discord:** [TFM200819](https://discord.com/users/821948166881935381)
 
 **You can also email me here:** hylmi@tfm200819.my.id
 
