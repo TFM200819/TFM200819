@@ -74,6 +74,6 @@ Hobbies: Watching Anime, Reading Manga, Playing VNs.
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="https://telegra.ph/file/14a7745f434cd21e900d6.jpg">
+        <img src="https://tfm200819.s-ul.eu/xfEOSjLK">
     </a>
 </p>
