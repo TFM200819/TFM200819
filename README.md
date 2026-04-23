@@ -14,7 +14,7 @@ My hobbies are the typical otaku hobby, which is watching Anime, reading Manga, 
 <h2 align="center">  About me  </h2>
 
 ```sh
-root@Rumi: ~/TFM200819 (main)$ fastfetch
+root@Rumi: ~/TFM200819 $ fastfetch
 ```
 
 <img align="left" src="https://avatars.githubusercontent.com/u/131218456?s=400&u=a99ed8f8e483031617c770067a51c1823a65d4cc&v=4" width="130px"/>
