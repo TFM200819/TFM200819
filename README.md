@@ -5,9 +5,9 @@
 </div>
 
 <h2 align="center">Hello!</h2>
-My name is Hylmi. For now, I'm just a regular high schooler learning new things everyday. I mostly learn infra for now, but in the future i might try to code more and slowly stop relying on AI for coding.
+My name is Hylmi. For now, I'm just a high schooler and an otaku. I mostly learn infra for now, but in the future i might try to code more and slowly stop relying on AI for coding.
 
-I don't have any big achievements or speciality, but that may change in thefuture
+I don't have any big achievements or speciality, but that may change in the future
 
 My hobbies are the typical otaku hobby, which is watching Anime, reading Manga, and playing some visual novels.
 
